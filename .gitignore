@@ -10,7 +10,23 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# compiled output
+/dist
+/tmp
+/out-tsc
+/target
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
 # Package Files #
+*.pdf
 *.jar
 *.war
 *.nar
